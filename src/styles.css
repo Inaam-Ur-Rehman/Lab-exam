@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+form {
+  display: block;
+  margin: auto;
+}
+form > input {
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  height: 20px;
+}
+form > input[type="submit"] {
+  height: 30px;
+  width: 80px;
+  background-color: cadetblue;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
